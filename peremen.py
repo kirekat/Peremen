@@ -1,0 +1,2 @@
+tasks=12; watch=1.5; training_course='Python'; time_for_one_task=watch/tasks
+print('Курс',training_course,', всего задач',tasks,', затрачено часов',watch,', среднее время выполнения',time_for_one_task,'часа')
